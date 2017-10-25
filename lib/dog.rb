@@ -1,10 +1,10 @@
 class Dog
-  fido = Dog.new
-  fido #=> #<Dog:0x007fc52c2d7d20>
+  'fido' = Dog.new
+  
 
-  snoopy = Dog.new
-  snoopy #=> #<Dog:0x007fc52c2d4170>
+  'snoopy' = Dog.new
+  
 
-  lassie = Dog.new
-  lassie #=> #<Dog:0x007fc52c2cc588>
+  'lassie' = Dog.new
+  
 end
