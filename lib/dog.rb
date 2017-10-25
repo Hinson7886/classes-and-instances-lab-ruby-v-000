@@ -1,10 +1,10 @@
 class Dog
-  'fido' = Dog.new
-  
+  "fido" = Dog.new
 
-  'snoopy' = Dog.new
-  
 
-  'lassie' = Dog.new
-  
+  "snoopy" = Dog.new
+
+
+  "lassie" = Dog.new
+
 end
