@@ -8,5 +8,3 @@ end
 
 
   lassie = Dog.new
-
-

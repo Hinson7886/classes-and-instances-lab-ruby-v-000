@@ -1,6 +1,6 @@
 class Person
 end
 
-adele_goldberg.new
+adele goldberg.new
 
-alan_kay.new
+alan kay.new
