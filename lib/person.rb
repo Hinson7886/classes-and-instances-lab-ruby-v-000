@@ -1,6 +1,6 @@
 class Person
 end
 
-adele goldberg.new
+adele goldberg = Person.new
 
-alan kay.new
+alan kay = Person.new
