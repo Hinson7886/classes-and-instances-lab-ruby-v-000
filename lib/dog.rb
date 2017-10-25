@@ -1,4 +1,6 @@
 class Dog
+end
+
   "fido" = Dog
 
 
@@ -7,4 +9,3 @@ class Dog
 
   "lassie" = Dog
 
-end
